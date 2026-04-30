@@ -205,7 +205,7 @@ Useful resources and dependencies that are used in 3D Portfolio.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />]("Buy me a Coffee")
 
 ## :rocket: Follow Me
 
@@ -251,16 +251,6 @@ Check out [Vite.js deployment documentation](https://vitejs.dev/guide/static-dep
 ## :star: Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/3d-portfolio&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline" />
-</picture>
-</a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
